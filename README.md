@@ -3,6 +3,10 @@
 ##  Project Overview
 This project predicts the presence of **heart disease** in patients using machine learning techniques. It involves **data preprocessing, feature engineering, model training, and evaluation** to classify whether a patient is at risk of heart disease or not.
 
+ using-Decision Tree,
+       Random Forest,
+       AdaBoost
+       
 ##  Objective
 The main goal of this project is to:
 - Analyze a heart disease dataset.
