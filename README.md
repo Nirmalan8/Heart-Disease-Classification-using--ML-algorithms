@@ -78,7 +78,14 @@ The main goal of this project is to:
 - Random Forest
 
 ---
+Future Improvements
 
+- Implement advanced models (XGBoost, LightGBM).
+
+- Hyperparameter tuning for better accuracy.
+
+- Deploy model using Streamlit or Flask.
+---
 ## How to Run
  Clone the repository:
    ```bash
@@ -89,11 +96,4 @@ Run the notebook:
 jupyter notebook Heart-Disease-Classification-using-ML.ipynb
 
 ---
-Future Improvements
 
-- Implement advanced models (XGBoost, LightGBM).
-
-- Hyperparameter tuning for better accuracy.
-
-- Deploy model using Streamlit or Flask.
----
